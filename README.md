@@ -1,4 +1,4 @@
-![preview](./alurinha-layout-desktop.png)
+![preview](./layouts/alurinha-layout-desktop.png)
 
 # Curso de Flexbox: posicione elementos na tela
 
